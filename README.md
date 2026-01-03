@@ -1,8 +1,7 @@
 # THM-LookUp-Writeup-ES-
 Writeup completo de la máquina LookUp (TryHackMe). Pentesting de principio a fin: Explotación de elFinder (RCE), Enumeración de usuarios con Python, PATH Hijacking y Privilege Escalation mediante Sudoers.
 
-LookUp
-Script de Python para fuerza bruta sobre login y Abuso del binario SUID look
+
 
 NMAP
 ```bash                                                    
