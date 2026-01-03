@@ -336,6 +336,23 @@ Este binario me ha dado unas posibles contraseñas asique me las guardo en un ar
 ```bash
 hydra -l think -P /home/an4nsi/Plataformas/TryHackMe/Maquinas/LookUp/pass.txt  ssh://10.80.186.166
 ```
+
+
+
+
+
+
+
+
+
+<img width="723" height="108" alt="THINK PASS" src="https://github.com/user-attachments/assets/14c6f3b3-73c5-4a8a-92ac-d6cab44e0243" />
+
+
+
+
+
+
+
 ​
 
 Entro en SSH con este user
